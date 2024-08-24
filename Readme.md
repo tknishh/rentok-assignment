@@ -1,10 +1,10 @@
-# My Chat Assistant
+# RentOk-Assignment
 
 ## Setup Instructions
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/my-chat-assistant.git
+   git clone https://github.com/tknishh/rentok-assignment.git
    cd my-chat-assistant
    ```
 
